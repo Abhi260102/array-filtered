@@ -1,0 +1,20 @@
+{
+  "name": "array-filter2",
+  "version": "1.0.1",
+  "description": "filter array on base of the condition same as filter method work in javascript",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhi260102/array-filtered.git"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhi260102/array-filtered/issues"
+  },
+  "homepage": "https://github.com/Abhi260102/array-filtered#readme"
+}
